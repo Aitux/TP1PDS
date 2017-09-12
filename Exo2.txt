@@ -1,0 +1,20 @@
+execve est utilisé pour appeler un programme.
+
+brk modifie la taille d'un segment de donnée.
+
+mmap établie une projection en mémoire des fichiers ou des périphériques.
+
+access vérifie les permissions utilisateurs d'un fichier.
+
+open ouvre un fichir relatif à un "file descriptor".
+
+fstat permet d'obtenir l'état d'un fichier.
+
+close sert à fermer un fichier grâce à son file descriptor.
+
+mprotect sert à changer la protection d'une partie de la mémoire.
+
+arch_prctl permet de définir l'état spécifique à l'architecture. 
+
+write permet d'écrire dans un fichier définie par un file descriptor.
+
